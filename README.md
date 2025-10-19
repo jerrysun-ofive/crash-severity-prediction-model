@@ -6,13 +6,6 @@ This project aims to use machine larning to predict the severity of road crashes
 ## Dataset
 - Source: NSW Goverment Open Data (Road Crash Data) 2020 ~ 2024
 - Rows: ~100,000 crashes
-- Columns: TBC
 
-## Objective
-Predict whether a crash will result in:
-- **0:** Fatal
-- **1:** Serious Injury
-- **2:** Minor Injury
-
-## Methods
-- TBC
+## Models
+- Random Forest Classifier 
