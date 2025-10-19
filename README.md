@@ -10,9 +10,9 @@ This project aims to use machine larning to predict the severity of road crashes
 
 ## Objective
 Predict whether a crash will result in:
-- **0: ** Fatal
-- **1: ** Serious Injury
-- **2: ** Minor Injury
+- **0:** Fatal
+- **1:** Serious Injury
+- **2:** Minor Injury
 
 ## Methods
 - TBC
